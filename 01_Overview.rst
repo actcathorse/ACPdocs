@@ -10,10 +10,10 @@
 
 教學影片
 --------
-    這些影片是對ACPainter教學的補充。但可以通過ACPainter YouTube 頻道訪問更多視頻演示和教程。新視頻將定期上傳，其中包含有用的提示、更新通知等，因此
+    這些影片是對ACPainter教學的補充。但可以通過ACPainter YouTube 頻道訪問更多影片演示和教程。新影片將定期上傳，其中包含有用的提示、更新通知等，因此
     我們鼓勵您訂閱以了解最新動態！
 
-    可在此處訪問 ACPainter 的教學視頻。
+    可在此處訪問 ACPainter 的教學影片。
 
 
 ACPainter Discord 服務器
